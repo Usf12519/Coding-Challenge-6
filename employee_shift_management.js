@@ -17,12 +17,13 @@ function displayEmployeeShifts {
 
 // Task 3: Create a Function to Assign a New Shift
 
-function assignShift (employee) = 
+function assignShift (employee) {}
     const employee = employee.find((employee) => {
         return employee.name === 'Ava'
     })
     
     console.log(employee)
+    else{console.log} , {There are four employess with shifts}
     
     
     
