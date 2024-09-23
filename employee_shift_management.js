@@ -10,8 +10,19 @@ const employees = [
 
 // Task 2: Create a Function to Display Employee Shift Details
 
-function displayEmployeeShifts (details) = {
+function displayEmployeeShifts {
      assignedshifts.forEach((shifts) => {
         console.log(assignedshifts.employeename)
     })
+
+// Task 3: Create a Function to Assign a New Shift
+
+function assignShift (employee) = 
+    const employee = employee.find((employee) => {
+        return employee.name === 'Ava'
+    })
+    
+    console.log(employee)
+    
+    
     
