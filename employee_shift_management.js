@@ -25,5 +25,17 @@ function assignShift (employee) {}
     console.log(employee)
     else{console.log} , {There are four employess with shifts}
     
+
+// Task 4: Create a Function to Calculate Total Hours Worked
+
+function calculateTotalHours (shifts) {
+    const total = shifts.reduce((employeename , currentTotal) => {
+        return shifts.hours + currentTotal 
+    }, 0)
+
+    console.log(total)
+
+ 
+}
     
     
