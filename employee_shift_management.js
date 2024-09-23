@@ -36,6 +36,9 @@ function calculateTotalHours (shifts) {
     console.log(total)
 
  
-}
+// Task 5: Create a Function to List Employees with Free Days
+
+function listAvailableEmployees (days)
+    
     
     
