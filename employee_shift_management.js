@@ -7,3 +7,11 @@ const employees = [
     {name: 'Ava' , shifts: [{ day: 'Thursday'}] }
 
 ];
+
+// Task 2: Create a Function to Display Employee Shift Details
+
+function displayEmployeeShifts (details) = {
+     assignedshifts.forEach((shifts) => {
+        console.log(assignedshifts.employeename)
+    })
+    
